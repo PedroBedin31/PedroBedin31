@@ -1,7 +1,7 @@
 ## Olá, sou Pedro Bedin! 👋
 
 - 🎓 Estou cursando Engenharia de Software(2/8) - UniCesumar
-- 📍 Maringá, Paraná, Brazil
+- 📍  Maringá, Paraná, Brazil
 - 📩 Email: pabbdin@gmail.com
 
 <div style="display: inline_block"><br>
